@@ -1,0 +1,3 @@
+[submodule "rsa_shamir/pycryptodome"]
+	path = rsa_shamir/pycryptodome
+	url = https://github.com/Legrandin/pycryptodome.git
